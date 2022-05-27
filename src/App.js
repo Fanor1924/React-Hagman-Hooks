@@ -1,9 +1,10 @@
 import React from 'react'
+import Hagman from "./components/Hagman"
 
 function App() {
   return (
-    <div className="App">
-      <h1>React-Hagman-Hooks 2022  </h1>
+    <div>
+      <Hagman />
     </div>
   );
 }
